@@ -8,8 +8,8 @@ The dashboard provides a clear view of overall business performance and helps id
 
 ## 📊 Dashboard Preview
 
-Pizza Sales Dashboard("<img width="1397" height="761" alt="dashboard png" src="https://github.com/user-attachments/assets/62881094-c0f2-4805-ad35-c731913624de" />
-")
+Pizza Sales Dashboard<img width="1397" height="761" alt="dashboard png" src="https://github.com/user-attachments/assets/62881094-c0f2-4805-ad35-c731913624de" />
+
 
 ---
 
