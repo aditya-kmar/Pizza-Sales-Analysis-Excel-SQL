@@ -1,5 +1,3 @@
-# Pizza-Sales-Analysis-Excel-SQL
-🍕 Pizza Sales Analysis Dashboard built using Excel and SQL to analyze sales performance, revenue, total orders, quantity sold, AOV, daily and hourly order trends, pizza category and size-wise sales, and top-performing pizzas. 📊
 # 🍕 Pizza Sales Analysis Dashboard
 
 An interactive **Pizza Sales Analysis Dashboard** built using **Excel and SQL** to analyze sales performance, customer ordering patterns, revenue, order trends, pizza categories, pizza sizes, and top-performing pizzas.
@@ -10,7 +8,8 @@ The dashboard provides a clear view of overall business performance and helps id
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Dashboard]("C:\Users\aadit\OneDrive\Pictures\Screenshots\dashboard.png.png")
+![Pizza Sales Dashboard]("<img width="1397" height="761" alt="dashboard png" src="https://github.com/user-attachments/assets/62881094-c0f2-4805-ad35-c731913624de" />
+")
 
 ---
 
